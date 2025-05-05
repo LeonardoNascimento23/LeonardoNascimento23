@@ -1,31 +1,40 @@
-# 👋 Hi, I’m @LeonardoNascimento23
+👋 Olá, sou @LeonardoNascimento23
+Acadêmico de Sistemas de Informação - UFGD 01/08 | Técnico em Informática para Internet - IFMS | Desenvolvedor Full Stack | Entusiasta de Tecnologia e Inovação
 
-## 👀 I’m interested in:
-- Full Stack development, especially using Python and JavaScript frameworks.
-- Building accessible and responsive web applications.
-- Infrastructure projects, including network maintenance and system automation.
+👨💻 Interesses Profissionais
+Desenvolvimento Full Stack com foco em Python (Django) e ecossistema JavaScript
 
-## 🌱 I’m currently learning:
-- Advanced Python applications for web development (Django) at Senac.
-- Enhanced skills in computer assembly and repair.
+Criação de aplicações web acessíveis e responsivas com UX intuitivo
 
-## 💞️ I’m looking to collaborate on:
-- Open-source projects focused on accessibility and inclusion.
-- Web and mobile applications with social and educational impacts.
-- Projects that integrate history and technology, similar to my prior work on the "Retirada da Laguna" portal.
+Infraestrutura de TI: manutenção de redes, automação de sistemas e soluções escaláveis
 
-## 📫 How to reach me:
-- **Email:** leonardovitaldonascimento@gmail.com  
-- **Phone:** (67) 98207-0567  
-- **LinkedIn:** [Leonardo Nascimento](https://www.linkedin.com)  
-- **GitHub:** [LeonardoNascimento23](https://github.com/LeonardoNascimento23)  
+Integração entre tecnologia e áreas humanísticas (história, educação e impacto social)
 
-## 😄 Pronouns:
-- He/Him  
+🚀 Aprimoramento Contínuo
+Cursado: Aplicações avançadas de Python para desenvolvimento web (Django) no Senac
+Cursando: Desenvolvimento Web Front End no Senac
 
-## ⚡ Fun fact:
-- I’ve won awards for impactful projects, such as accessibility solutions and historical portals. When not coding, I love exploring military history and creating educational experiences through technology.  
+Desenvolvendo habilidades técnicas:
 
----
+Arquitetura de sistemas e boas práticas de código
 
-✨ This repository is a showcase of my journey as a Full Stack developer and my professional experiences. Feel free to explore and connect with me! ✨  
+Técnicas avançadas de montagem e manutenção de hardware
+
+🤝 Busco Colaborar em
+Projetos open-source focados em inclusão digital e acessibilidade
+
+Desenvolvimento de plataformas educacionais e aplicativos com impacto social
+
+📬 Contato Profissional
+E-mail: leonardovitaldonascimento@gmail.com
+
+LinkedIn: Leonardo Nascimento
+
+GitHub: LeonardoNascimento23
+
+⚡ Curiosidades
+Premiado por projetos de impacto social em acessibilidade digital e preservação histórica
+
+Acredito na tecnologia como ferramenta para experiências educacionais transformadoras
+
+✨ Este perfil reflete minha jornada como desenvolvedor Full Stack e minha paixão por soluções técnicas com propósito humano. Fique à vontade para explorar meus repositórios e conectar-se comigo! ✨
