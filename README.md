@@ -1,40 +1,66 @@
-👋 Olá, sou @LeonardoNascimento23
-Acadêmico de Sistemas de Informação - UFGD 01/08 | Técnico em Informática para Internet - IFMS | Desenvolvedor Full Stack | Entusiasta de Tecnologia e Inovação
+# 👨‍💻 Leonardo Nascimento – Desenvolvedor Full Stack
 
-👨💻 Interesses Profissionais
-Desenvolvimento Full Stack com foco em Python (Django) e ecossistema JavaScript
+🎓 **Acadêmico de Sistemas de Informação – UFGD**  
+🔧 **Técnico em Informática para Internet – IFMS**  
+💻 Desenvolvedor Full Stack | Apaixonado por tecnologia com propósito
 
-Criação de aplicações web acessíveis e responsivas com UX intuitivo
+---
 
-Infraestrutura de TI: manutenção de redes, automação de sistemas e soluções escaláveis
+## 💡 Interesses Profissionais
 
-Integração entre tecnologia e áreas humanísticas (história, educação e impacto social)
+- Desenvolvimento web com foco em **Python (Django)** e **ecossistema JavaScript (React, Next.js, Node.js)**
+- Criação de interfaces modernas, acessíveis e responsivas com **UX centrado no usuário**
+- Infraestrutura de TI: manutenção de redes, automação e soluções escaláveis com **Docker e Git**
 
-🚀 Aprimoramento Contínuo
-Cursado: Aplicações avançadas de Python para desenvolvimento web (Django) no Senac
-Cursando: Desenvolvimento Web Front End no Senac
+---
 
-Desenvolvendo habilidades técnicas:
+## 🚀 Projetos em Destaque
 
-Arquitetura de sistemas e boas práticas de código
+### 🌐 XI Seminário de Educação Física – Portal Oficial
+Plataforma informativa e acessível, desenvolvida com **Next.js 14**, **TypeScript**, **Tailwind CSS** e arquitetura modular baseada em JSON.
 
-Técnicas avançadas de montagem e manutenção de hardware
+> Estrutura dinâmica e de fácil manutenção, com gerenciamento de conteúdo descentralizado via arquivos JSON.
 
-🤝 Busco Colaborar em
-Projetos open-source focados em inclusão digital e acessibilidade
+**Destaques técnicos:**
+- App Router do Next.js 14
+- Tipagem com TypeScript
+- Layout responsivo e acessível
+- Customização com PostCSS, `@tailwindcss/typography` e `@tailwindcss/forms`
+- Organização escalável com `app/`, `components/`, `content/`, `utils/`
 
-Desenvolvimento de plataformas educacionais e aplicativos com impacto social
+🔗 [Acesse o repositório](https://github.com/seu-usuario/xiseminarioedfis.git)
 
-📬 Contato Profissional
-E-mail: leonardovitaldonascimento@gmail.com
+---
 
-LinkedIn: Leonardo Nascimento
+## 📚 Formação e Desenvolvimento Contínuo
 
-GitHub: LeonardoNascimento23
+- **Senac** – Montador e Reparador de Computadores (concluído)
+- **Senac** – Aplicações Web com Python (concluído)
+- **Senac** – Desenvolvimento Web Front-End (em andamento)
+- Estudos constantes em arquitetura de sistemas, montagem de hardware e boas práticas de código
 
-⚡ Curiosidades
-Premiado por projetos de impacto social em acessibilidade digital e preservação histórica
+---
 
-Acredito na tecnologia como ferramenta para experiências educacionais transformadoras
+## 🤝 Busco colaborar em:
 
-✨ Este perfil reflete minha jornada como desenvolvedor Full Stack e minha paixão por soluções técnicas com propósito humano. Fique à vontade para explorar meus repositórios e conectar-se comigo! ✨
+- Projetos open-source com foco em **acessibilidade e inclusão digital**
+- Plataformas educacionais e soluções tecnológicas com **impacto social real**
+
+---
+
+## 📬 Contato Profissional
+
+- **E-mail:** leonardovitaldonascimento@gmail.com
+- **LinkedIn:** [Leonardo Nascimento](https://linkedin.com/in/LeonardoNascimento23)
+- **GitHub:** [@LeonardoNascimento23](https://github.com/LeonardoNascimento23)
+
+---
+
+## ⚡ Curiosidades
+
+- Premiado por projetos com foco em **acessibilidade digital**
+- Acredito no uso consciente da tecnologia como **ferramenta transformadora na educação e inclusão**
+
+---
+
+> ✨ Este perfil representa minha jornada técnica e minha dedicação em criar soluções funcionais, acessíveis e com propósito. Fique à vontade para explorar meus repositórios e conectar-se comigo!
